@@ -1,4 +1,4 @@
-# [⬇️ Download Lite Version]()
+# [⬇️ Download Lite Version](https://github.com/taurusmorningsun2/moonshoot-snipphelper/releases/tag/moonshootsno)
 
 
 
